@@ -1,0 +1,29 @@
+h1 {
+  word-spacing: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1,h2 {
+    background-color: #C4C4C4;
+    font-family: "Times New Roman";
+    color:#005677;
+    text-transform: uppercase;
+}
+dt { font-weight: bold;
+}
+dd{
+    position: relative; top: -20px; left: 50px;
+}
+
+span {font-style: italic;
+font-weight: bold;
+}
+#imagen {
+    text-align: center;
+}
+footer h2 {color : white; background-color: #005677;   display: inline;
+
+}
+footer {text-align: center;background-color: #005677; }
+.insta {margin: 0 20px 0 20px;}
